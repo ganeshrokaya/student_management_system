@@ -1,0 +1,32 @@
+1. INTRODUCTION 									1 
+1.1  Purpose 										2 
+1.2  Applications									3						
+1.4  Feasibility study								 
+1.5  Technical Feasibility 								 
+1.6  Problem Definition 									 
+1.7  Motivation of the Research Work 							 
+1.8  Research Objective 									 
+1.9  Performance Evaluation Metrics 							 
+1.10  Organization of the Thesis 								 
+2. LITERATURE SURVEY 								 
+2.1  Introduction 										 
+2.2  Review on Image Acquisition 							 
+2.3  Review on Pre-Processing 								 
+
+2.4  Summary 										
+3. PROPOSED METHOLOGY
+3.1  Introduction 										 
+3.2  Basic Pre-processing Steps 								 
+3.3  Active Lesion Based Multilevel Segmentation (ALBMS) 				 
+3.3.1  Distance and Color Directional Clustering Algorithm 				 
+3.2  Summary 										 
+4. EXPERIMENTAL ANALYSIS AND DISCUSSION                                   
+4.1  Introduction 								 
+4.2  Analysis of Pre-processing Method                                                        
+4.3 SUMMARY
+5. CONCLUSION AND FUTURE WORK 					 
+5.1  Conclusion 									 
+5.2  Future Work 								
+5.3 Summary 									
+REFERENCES
+APPENDIX A - LIST OF PUBLICATIONS 
