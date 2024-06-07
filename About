@@ -1,0 +1,9 @@
+A student management system using PHP is a web-based application designed to efficiently manage various aspects of student information within an educational institution.
+
+Steps to implement:
+1. Download the zip folder from code section
+2. unzip the file 
+3. Download and install the Xampp control panel from any browser
+4. Now place the whole folder to C:\xampp\htdocs
+5. Open the Xampp application and Start the Apache and Mysql Services 
+6. It is now serving in our local server open broswer and type localhost/index.php
